@@ -1,0 +1,42 @@
+{
+  "group": "infecticraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "infecticraft:flesh"
+    },
+    "1": {
+      "item": "infecticraft:flesh"
+    },
+    "2": {
+      "item": "infecticraft:flesh"
+    },
+    "3": {
+      "item": "infecticraft:flesh"
+    },
+    "4": {
+      "item": "infecticraft:flesh"
+    },
+    "5": {
+      "item": "infecticraft:flesh"
+    },
+    "6": {
+      "item": "infecticraft:flesh"
+    },
+    "7": {
+      "item": "infecticraft:flesh"
+    },
+    "8": {
+      "item": "infecticraft:flesh"
+    }
+  },
+  "result": {
+    "item": "infecticraft:block_of_flesh",
+    "count": 1
+  }
+}

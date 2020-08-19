@@ -1,0 +1,133 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlockOfRottenFlesh",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_rotten_flesh"
+    },
+    {
+      "name": "RBlockOfRottenFlesh",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_block_of_rotten_flesh"
+    },
+    {
+      "name": "RRottenFlesh",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_rotten_flesh"
+    },
+    {
+      "name": "WitherBone",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_bone"
+    },
+    {
+      "name": "WitherPowder",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_powder"
+    },
+    {
+      "name": "RWitherPowder",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_wither_powder"
+    },
+    {
+      "name": "WitherBoneBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_bone_block"
+    },
+    {
+      "name": "Flesh",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flesh"
+    },
+    {
+      "name": "BlockOfFlesh",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_flesh"
+    },
+    {
+      "name": "RFlesh",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_flesh"
+    },
+    {
+      "name": "RBlockOfFlesh",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_block_of_flesh"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.infecticraft.flesh": "Flesh",
+      "block.infecticraft.block_of_rotten_flesh": "Block of Rotten Flesh",
+      "item.infecticraft.wither_powder": "Wither Powder",
+      "block.infecticraft.wither_bone_block": "Wither Bone Block",
+      "block.infecticraft.block_of_flesh": "Block of Flesh",
+      "item.infecticraft.wither_bone": "Wither Bone"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "infecticraft",
+    "modName": "Infecticraft",
+    "version": "1.0.0",
+    "author": "Julian Hempstead, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.infecticraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

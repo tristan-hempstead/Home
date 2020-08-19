@@ -1,0 +1,13 @@
+{
+  "group": "infecticraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infecticraft:block_of_rotten_flesh"
+    }
+  ],
+  "result": {
+    "item": "minecraft:rotten_flesh",
+    "count": 9
+  }
+}

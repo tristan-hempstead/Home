@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "infecticraft:blocks/block_of_rotten_flesh",
+    "particle": "infecticraft:blocks/block_of_rotten_flesh"
+  }
+}

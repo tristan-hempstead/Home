@@ -1,0 +1,13 @@
+{
+  "group": "infecticraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infecticraft:wither_bone"
+    }
+  ],
+  "result": {
+    "item": "infecticraft:wither_powder",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "infecticraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infecticraft:block_of_flesh"
+    }
+  ],
+  "result": {
+    "item": "infecticraft:flesh",
+    "count": 9
+  }
+}

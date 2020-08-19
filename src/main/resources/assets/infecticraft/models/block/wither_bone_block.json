@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "infecticraft:blocks/wither_bone_block_top",
+    "up": "infecticraft:blocks/wither_bone_block_top",
+    "north": "infecticraft:blocks/wither_bone_block_side",
+    "east": "infecticraft:blocks/wither_bone_block_side",
+    "south": "infecticraft:blocks/wither_bone_block_side",
+    "west": "infecticraft:blocks/wither_bone_block_side",
+    "particle": "infecticraft:blocks/wither_bone_block_top"
+  }
+}
